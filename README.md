@@ -3,6 +3,9 @@
 Backend  do projeto: https://github.com/ceerqueira/API-Transacoes
 
 ## Para Rodar a aplicação
+ `npm install`
+
+ Para instalar as depedencias do projeto 
 
  `npm start`
 
