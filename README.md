@@ -2,11 +2,9 @@
 
 Backend  do projeto: https://github.com/ceerqueira/API-Transacoes
 
-## Scripts Disponíveis
+#Para Rodar a aplicação
 
-No diretório do projeto, você pode rodar:
-
-### `npm start`
+ `npm start`
 
 Executa a aplicação no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-la no navegador.
