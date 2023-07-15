@@ -1,0 +1,45 @@
+/* styles for the App and Table components */
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tabela {
+width: 80%;
+margin: 0 auto;
+border: 1px solid #000;
+border-radius: 5px;
+padding: 20px;
+background-color: #f7f7f7;
+}
+
+.tabela h3 {
+text-align: center;
+color: #333;
+font-size: 24px;
+margin-bottom: 20px; 
+}
+
+.tabela div {
+border-bottom: 1px solid #ddd;
+padding: 10px 0;
+}
+
+.tabela p {
+margin: 0 0 5px;
+color: #666;
+font-size: 18px;
+}
