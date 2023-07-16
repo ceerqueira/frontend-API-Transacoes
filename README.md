@@ -9,11 +9,10 @@ Backend  do projeto: https://github.com/ceerqueira/API-Transacoes
 
  `npm start`
 
-Executa a aplicação no modo de desenvolvimento.\
+Para executa a aplicação no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-la no navegador.
 
-A página irá recarregar se você fizer alterações.\
-Você também poderá ver quaisquer erros de lint no console.
+
 
 ## Imagem do Projeto
 
